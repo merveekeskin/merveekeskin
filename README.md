@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merveekeskin&label=Profile%20views&color=0e75b6&style=flat" alt="merveekeskin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merveekeskin" alt="merveekeskin" /></a> </p>
-
 - 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, AI Agents, and Backend Development**
