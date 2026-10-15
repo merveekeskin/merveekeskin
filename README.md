@@ -1,8 +1,9 @@
-![Portfolio Banner](profile-banner.jpg)
 <h1 align="center">👋 About Me;</h1>
 <h3 align="center">✨ I'm a Computer Engineering graduate passionate about software development, data science, and artificial intelligence. I enjoy turning ideas into practical solutions, exploring new technologies, and continuously learning along the way. 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merveekeskin&label=Profile%20views&color=0e75b6&style=flat" alt="merveekeskin" /> </p>
+
+![Portfolio Banner](profile-banner.jpg)
 
 - 🔭 I’m currently working on **Python**
 
