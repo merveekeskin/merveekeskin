@@ -5,7 +5,7 @@
 
 ![Portfolio Banner](profile-banner.jpg)
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Python and SQL**
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, AI Agents, and Backend Development**
 
